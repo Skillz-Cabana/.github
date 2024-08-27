@@ -1,5 +1,5 @@
-# Skillz' Laboratory
-Hello! Welcome to the offical Skillz' Laboratory Organization. This is where you can see the plugins we use and view the current status of plugins (and their features.)
+# Skillz' Cabana
+Hello! Welcome to the offical Skillz' Cabana Organization. This is where you can see the plugins we use and view the current status of plugins (and their features.)
 
 ## Current Plugins
 
